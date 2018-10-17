@@ -1,6 +1,6 @@
 {
-  "name": "PsicHelp - Locais de Atendimento GRATUITO em Saúde Mental em Salvador",
-  "short_name": "PsicHelp",
+  "name": "FisioHelp - Locais de Atendimento GRATUITO em Saúde Mental em Salvador",
+  "short_name": "FisioHelp",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{

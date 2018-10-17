@@ -1,6 +1,6 @@
-# PsicHelp
+# FisioHelp
 
-> Site oficial do app: [https://psichelp.com.br](https://psichelp.com.br)
+> Site oficial do app: [https://fisiohelp.com.br](https://fisiohelp.com.br)
 
 Aplicativo criado com o objetivo de ajudar a população a encontrar atendimento psicológico
 e psiquiátrico por um baixo custo ou até gratuitamente.
@@ -27,9 +27,9 @@ Consultores: **Dr. Rodrigo Mello** e **Karla Prazeres**.
 
 Estamos buscando patrocínio e parceiros para ajudar na divulgação do aplicativo.
 
-- :globe_with_meridians: Site: http://www.psichelp.com.br
+- :globe_with_meridians: Site: http://www.fisiohelp.com.br
 - :camera: Instagram: [@PsichelpApp](https://www.instagram.com/PsichelpApp/)
-- :love_letter: E-mail: [PsicHelpcontatos@gmail.com](mailto:PsicHelpcontatos@gmail.com)
+- :love_letter: E-mail: [FisioHelpcontatos@gmail.com](mailto:FisioHelpcontatos@gmail.com)
 
 ## Contato
 

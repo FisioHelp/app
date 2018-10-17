@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export APP="PsicHelp"
+export APP="FisioHelp"
 
 function acp {
     git add -A .
@@ -23,7 +23,7 @@ ng build --prod
 
 rm -rf cordova/www
 mkdir -p cordova/www
-cp dist/PsicHelp/* cordova/www -r
+cp dist/FisioHelp/* cordova/www -r
 echo "Gerando versão de Release para $APP"
 cd cordova
 cordova build android --prod --release
