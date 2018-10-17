@@ -22,7 +22,7 @@ export const ESTABELECIMENTOS: Estabelecimento[] = [
     tel: '(71) 3271-4265',
     // whatsapp: '',
     valor: 'Atendimento pelo plano de saúde',
-    servicos: [SERVICO.FISIOTERAPIA_PLANO, ],
+    servicos: [SERVICO.FISIOTERAPIA_PLANO, SERVICO.PILATES_PLANO, SERVICO.RPG_PLANO],
     descricao_servicos: '',
     email: 'atendimento@clinicacicv.com.br',
     // mapa: ''
