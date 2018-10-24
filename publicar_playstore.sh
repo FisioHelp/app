@@ -43,4 +43,4 @@ else
     exit
 fi
 
-fastlane deploy --verbose
+# fastlane deploy --verbose
